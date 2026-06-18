@@ -3,14 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello,%20I'm%20iambutterapple!&fontSize=45&fontAlignY=35&theme=radical" />
 </p>
 
----
-
-## 🚀 About Me
-- 💻 Passionate about building robust backend applications using **Java & Spring Boot**.
-- 🛠 Exploring low-level system mechanics and core programming principles with **C / C++ / C#**.
-- 🗄 Studying optimal database modeling and query tuning utilizing **Oracle Database**.
-
----
 
 ## 🛠 Tech Stacks
 
