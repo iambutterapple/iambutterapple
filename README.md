@@ -1,4 +1,4 @@
-<!-- 1. Eye-Catching Gradient Header Banner -->
+**<!-- 1. Eye-Catching Gradient Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello,%20I'm%20iambutlerapple!&fontSize=45&fontAlignY=35&theme=radical" />
 </p>
@@ -38,6 +38,4 @@
 
 ## 📁 Portfolio (Projects)
 > Here are some of my featured projects.
-
-* **[Project Name]** - Web service built with Spring Boot & Oracle [👉 View Repository](https://github.com/iambutlerapple)
-* **[Project Name]** - Windows application / Program developed using C# [👉 View Repository](https://github.com/iambutlerapple)
+https://axiomatic-spirit-ec1.notion.site/2e695ef6863181e4adbae6cf9fea520c
