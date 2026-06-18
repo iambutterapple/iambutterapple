@@ -1,6 +1,6 @@
 <!-- 1. Eye-Catching Gradient Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello,%20I'm%20iambutlerapple!&fontSize=45&fontAlignY=35&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello,%20I'm%20iambutterapple!&fontSize=45&fontAlignY=35&theme=radical" />
 </p>
 
 ---
