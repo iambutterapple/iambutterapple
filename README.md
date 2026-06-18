@@ -25,13 +25,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iambutlerapple&show_icons=true&theme=radical" alt="iambutlerapple's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambutlerapple&layout=compact&theme=radical" alt="iambutlerapple's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iambutterapple&show_icons=true&theme=radical" alt="iambutterapple's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambutterapple&layout=compact&theme=radical" alt="iambutterapple's Top Languages" width="48%" />
 </p>
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/239120/iambutlerapple" alt="iambutlerapple's GitHub chart" width="100%" />
+  <img src="https://ghchart.rshah.org/239120/iambutlerapple alt="iambutlerapple's GitHub chart" width="100%" />
 </p>
 
 ---
