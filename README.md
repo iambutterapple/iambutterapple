@@ -23,3 +23,23 @@ Here are some ideas to get you started:
 
 **Database**
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iambutterapple&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambutterapple&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 **Java & Spring Boot**를 활용한 백엔드 애플리케이션 개발에 관심이 많습니다.
+- 🛠 **C / C#**을 활용한 시스템 프로그래밍 및 다양한 언어의 메커니즘을 공부하고 있습니다.
+- 🗄 **Oracle Database**를 활용하여 데이터 모델링과 효율적인 쿼리 작성에 집중하고 있습니다.
+
+## 📁 Core Projects (추천)
+> 제가 진행한 주요 프로젝트들입니다. (링크를 연결해 보세요!)
+
+* **[프로젝트명]** - Spring Boot + Oracle을 활용한 웹 서비스 [👉 Repository]()
+* **[프로젝트명]** - C# 기반의 윈도우 프로그램 / 게임 개발 [👉 Repository]()
