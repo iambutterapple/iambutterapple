@@ -31,7 +31,7 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/239120/iambutlerapple alt="iambutlerapple's GitHub chart" width="100%" />
+  <img src="https://ghchart.rshah.org/239120/iambutterapple alt="iambutterapple's GitHub chart" width="100%" />
 </p>
 
 ---
