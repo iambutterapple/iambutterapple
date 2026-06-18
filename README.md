@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-- 💻 **Java & Spring Boot**를 활용한 백엔드 애플리케이션 개발에 관심이 많습니다.
-- 🛠 **C / C#**을 활용한 시스템 프로그래밍 및 다양한 언어의 메커니즘을 공부하고 있습니다.
-- 🗄 **Oracle Database**를 활용하여 데이터 모델링과 효율적인 쿼리 작성에 집중하고 있습니다.
+- 💻 **Java & Spring Boot**를 활용한 백엔드 애플리케이션 프로젝트를 참여했습니다.
+- 🛠 **C / C#**을 활용한 시스템 기초 프로그램을 학습했습니다.
+- 🗄 **Oracle Database**를 활용하여 데이터 관련 작업을 했습니다.
 
 ## 📁 포트폴리오
 > https://axiomatic-spirit-ec1.notion.site/2e695ef6863181e4adbae6cf9fea520c
