@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambutterapple&layout=compact&theme=radical" alt="iambutterapple's top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambutterapple&layout=compact&theme=radical" alt="iambutterapple's top langs" width="100%" />
 </div>
 
 ### 📈 Contribution Graph
