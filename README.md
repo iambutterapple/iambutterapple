@@ -24,7 +24,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iambutterapple&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambutterapple&layout=compact&hide_border=true&theme=radical" />
 </p>
 
