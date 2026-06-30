@@ -23,8 +23,10 @@
 ---
 
 ### 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=iambutterapple&show_icons=true&theme=radical&hide_border=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=iambutterapple&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="languages" />
+</p>
 
 ### 📈 Contribution Graph
 <p align="center">
