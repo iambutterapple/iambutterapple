@@ -22,10 +22,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iambutterapple&theme=radical&hide_border=true" />
-</p>
 
 ### 📈 Contribution Graph
 <p align="center">
